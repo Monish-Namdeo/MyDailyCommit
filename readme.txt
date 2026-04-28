@@ -1,1 +1,1 @@
-Initialization of DailyCommit, your bot has been set up properly.
+Initialization of MyDailyCommit
